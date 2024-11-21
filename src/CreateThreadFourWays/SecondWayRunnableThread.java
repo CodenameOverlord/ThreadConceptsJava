@@ -1,3 +1,5 @@
+package CreateThreadFourWays;
+
 public class SecondWayRunnableThread {
     public static void main(String[] args) {
         Thread myThread = new Thread(new MyRunnableThread());

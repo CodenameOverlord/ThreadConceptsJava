@@ -1,3 +1,5 @@
+package CreateThreadFourWays;
+
 public class FourthWayUsingLambdaExpressionRunnable {
     public static void main(String[] args) {
         Runnable runnable = () -> {

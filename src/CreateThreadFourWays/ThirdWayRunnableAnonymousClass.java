@@ -1,3 +1,5 @@
+package CreateThreadFourWays;
+
 public class ThirdWayRunnableAnonymousClass {
     public static void main(String[] args) {
         Runnable runnable = new Runnable() {

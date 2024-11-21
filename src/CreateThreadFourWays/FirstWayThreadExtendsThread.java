@@ -1,3 +1,5 @@
+package CreateThreadFourWays;
+
 public class FirstWayThreadExtendsThread {
     public static void main(String[] args) {
         Thread myThread = new MyThread();
